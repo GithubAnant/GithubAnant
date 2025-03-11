@@ -13,7 +13,6 @@
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-teal)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange)
 ![C++](https://img.shields.io/badge/-C++-purple)
 
