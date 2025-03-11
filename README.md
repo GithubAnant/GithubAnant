@@ -17,4 +17,4 @@
 ![C++](https://img.shields.io/badge/-C++-purple)
 
 ### 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/anant-singhal-linkdn/) | [Email Me](mailto:anantsinghal444@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anant-singhal-linkdn/) | [Email Me](mailto:anantsinghal444@gmail.com) | [Medium](https://medium.com/@anantsinghal807)
