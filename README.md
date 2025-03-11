@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Anant! 
 
-<!--
-**GithubAnant/GithubAnant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💼 CSE student at DTU
+- 📱 Building cool projects in **Flutter**, **RASA**, and  **Python**
+- 🎯 Goal: Build a startup that is bigger than just a product
+  
+### 🔥 Projects I'm Proud Of
+- **Somnia**: Dream-sharing platform for wild thoughts 🌌
+- **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯
+- **Inventory Tracker**: First client app, Real-time stock management for multiple warehouses 📦
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-blue)
+![Flutter](https://img.shields.io/badge/-Flutter-teal)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Firebase](https://img.shields.io/badge/-Firebase-orange)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/anant-singhal-linkdn/) 
+[Email Me](mailto:anantsinghal444@gmail.com)
+
