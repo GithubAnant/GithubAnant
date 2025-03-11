@@ -2,9 +2,9 @@
 
 ### 🚀 About Me
 - 💼 CSE student at DTU  
-- 📱 Built **8 apps** in **Flutter** along with projects in **RASA**, **Python**, and **C++**  
+- 📱 Built **multiple apps** in **Flutter** along with projects in **RASA**, **Python**, and **C++**  
 
-### 🔥 Past Projects 
+### 🔥 Star Projects 
 - **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
 - **Inventory Tracker**: First client app — Real-time stock management for multiple warehouses 📦  
 
