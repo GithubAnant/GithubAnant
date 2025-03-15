@@ -6,7 +6,7 @@
 
 ### 🔥 Star Projects 
 - **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
-- **Inventory Tracker**: First client app — Real-time stock management for multiple warehouses 📦  
+- **Somnia**: A dream sharing platform - post your wildest dreams anonymously 💭
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
