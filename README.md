@@ -7,6 +7,7 @@
 ### 🔥 Star Projects 
 - **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
 - **Somnia**: A dream sharing platform - post your wildest dreams anonymously 💭 [Somnia](https://somnia-puce.vercel.app/)
+- **Data App**: A Freelance Project
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
