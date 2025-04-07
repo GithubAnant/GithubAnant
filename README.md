@@ -8,6 +8,8 @@
 - **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
 - **Somnia**: A dream sharing platform - post your wildest dreams anonymously 💭 [Somnia](https://somnia-puce.vercel.app/)
 
+### 💀 GitHub Boss Battle
+![Boss Battle](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/bossbattle.svg)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
