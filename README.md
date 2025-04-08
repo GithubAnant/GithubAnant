@@ -7,6 +7,8 @@
 ### 🔥 Star Projects 
 - **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
 - **Somnia**: A dream sharing platform - post your wildest dreams anonymously 💭 [Somnia](https://somnia-puce.vercel.app/)
+- **[Hand2Hand](https://github.com/akshat2474/Hand2Hand)**: A donation management app built for an NGO using Flutter. Bridging the gap between unwanted yet useful resources and NGO's who actually would find them helpful.🤝📦
+
 
 
 ### 🛠️ Tech Stack
