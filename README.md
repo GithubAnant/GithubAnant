@@ -7,13 +7,14 @@
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">&nbsp;&nbsp; About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 
-🎓 CSE undergrad at DTU  
-🛠️ Building sleek mobile apps using Flutter — plus some cool stuff in Python, RASA, and C++  
-🚀 I like making things that *actually* solve problems — not just fancy UIs  
-🌟 A few things I’ve shipped:  
-- **ChaiGPT**: Internal chatbot for companies — get what you need from internal data, fast ⚡  
-- **Somnia**: A platform to post your wildest dreams  
-- **Hand2Hand**: Donation app for NGOs — matching surplus resources with real needs 🤝📦  
+💼 CSE student at DTU  
+📱 Built multiple apps in Flutter along with projects in RASA, Python, and C++  
+
+🔥 **Star Projects**  
+
+- **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
+- **Somnia**: A dream sharing platform - post your wildest dreams anonymously 💭  
+- **Hand2Hand**: A donation management app built for an NGO using Flutter. Bridging the gap between unwanted yet useful resources and NGOs who actually would find them helpful. 🤝📦  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anant-singhal-linkdn/)) 
