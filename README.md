@@ -1,11 +1,11 @@
-# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there,+I'm+Anant.)](https://github.com/your-username)
+# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=false&width=500&lines=Hey+there,+I'm+Anant.)](https://github.com/your-username)
 
-<div align="start">
+<div align="center">
 <!--   <img height="320" src="https://media.giphy.com/media/3o7TKUMaYwRa1aC1sY/giphy.gif" /> -->
 </div>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">&nbsp;&nbsp; About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">&nbsp;&nbsp; **About Me**
+<img align="right" src="https://media.giphy.com/media/26uf4sB7Q6sF7OYxW/giphy.gif" width="250px">
 
 💼 CSE student at DTU  
 📱 Built multiple apps in Flutter along with projects in RASA, Python, and C++  
