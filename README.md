@@ -7,7 +7,6 @@
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
 
-🚀 About Me  
 💼 CSE student at DTU  
 📱 Built multiple apps in Flutter along with projects in RASA, Python, and C++  
 🔥 **Star Projects**  
