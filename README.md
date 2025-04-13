@@ -28,10 +28,7 @@
 # 📊 GitHub Streak:
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GithubAnant&theme=vision-friendly-dark&hide_border=true)
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph" />
-</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GithubAnant&icon=0&color=0)](https://visitcount.itsvg.in)
