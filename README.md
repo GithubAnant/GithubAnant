@@ -1,19 +1,19 @@
-# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F3F3F&center=true&width=435&lines=Hi,+I'm+Anant.)](https://github.com/your-username)
+# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there,+I'm+Anant.)](https://github.com/your-username)
 
 <div align="center">
-<!--   <img height="350" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  /> -->
+<!--   <img height="320" src="https://media.giphy.com/media/3o7TKUMaYwRa1aC1sY/giphy.gif" /> -->
 </div>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
-<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">&nbsp;&nbsp; About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 
-💼 CSE student at DTU  
-📱 Built multiple apps in Flutter along with projects in RASA, Python, and C++  
-
-🔥 **Star Projects**  
-- **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
-- **Somnia**: A dream sharing platform - post your wildest dreams anonymously 💭  
-- **Hand2Hand**: A donation management app built for an NGO using Flutter. Bridging the gap between unwanted yet useful resources and NGOs who actually would find them helpful. 🤝📦  
+🎓 CSE undergrad at DTU  
+🛠️ Building sleek mobile apps using Flutter — plus some cool stuff in Python, RASA, and C++  
+🚀 I like making things that *actually* solve problems — not just fancy UIs  
+🌟 A few things I’ve shipped:  
+- **ChaiGPT**: Internal chatbot for companies — get what you need from internal data, fast ⚡  
+- **Somnia**: A platform to post your wildest dreams  
+- **Hand2Hand**: Donation app for NGOs — matching surplus resources with real needs 🤝📦  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anant-singhal-linkdn/)) 
