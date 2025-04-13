@@ -1,6 +1,6 @@
 # [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there,+I'm+Anant.)](https://github.com/your-username)
 
-<div align="center">
+<div align="start">
 <!--   <img height="320" src="https://media.giphy.com/media/3o7TKUMaYwRa1aC1sY/giphy.gif" /> -->
 </div>
 
