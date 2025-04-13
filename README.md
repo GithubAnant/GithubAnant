@@ -4,9 +4,8 @@
 <!--   <img height="320" src="https://media.giphy.com/media/3o7TKUMaYwRa1aC1sY/giphy.gif" /> -->
 </div>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">&nbsp;&nbsp; **About Me**
-<img align="right" src="https://media.giphy.com/media/26uf4sB7Q6sF7OYxW/giphy.gif" width="250px">
-
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">&nbsp;&nbsp; About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 💼 CSE student at DTU  
 📱 Built multiple apps in Flutter along with projects in RASA, Python, and C++  
 
