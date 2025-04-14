@@ -17,7 +17,7 @@
 - **Hand2Hand**: A donation management app built for an NGO using Flutter. Bridging the gap between unwanted yet useful resources and NGOs who actually would find them helpful. 🤝📦  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anant-singhal-linkdn/]) 
+[![LinkedIn]]([https://www.linkedin.com/in/anant-singhal-linkdn/]) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)]([https://medium.com/@anantsinghal807]) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anantsinghal444@gmail.com)
 
