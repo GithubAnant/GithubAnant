@@ -27,9 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-%230257A1.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
-
-# 📊 GitHub Streak:
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GithubAnant&theme=vision-friendly-dark&hide_border=true)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23025E8A.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
