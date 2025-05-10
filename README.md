@@ -9,24 +9,21 @@ Recently working on my biggest project ever — pictora.ai 🤫
 
 ## 💻 Tech Stack
 
-<div align="center">
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%230257A1.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![NoSQL](https://img.shields.io/badge/NoSQL-%23E64135.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%230257A1.svg?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%23E64135.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🌐 Socials
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
 
 
 
