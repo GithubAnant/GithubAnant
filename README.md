@@ -1,14 +1,13 @@
-# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=false&width=500&lines=Hey+there,+I'm+Anant.)](https://github.com/your-username)
-
 <p align="center">
   <img src="pixel_graphic.gif" alt="Pixel Graphic" width="100%" />
 </p>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">&nbsp;&nbsp; About Me
+## 💫 About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 
-💼 CSE student at DTU  
-📱 Built multiple apps in Flutter along with projects in RASA, Python, and C++  
+Hi, I'm Anant from New Delhi. I've been coding since the 10th grade and love building impromptu projects — idea on day one, product by day three. I'm starting to get deeply involved in the world of machine learning and AI lately, while still jamming with Flutter when I need a quick app. Always experimenting, always shipping 🛻💨
+
+Recently working on my biggest project ever — pictora.ai 🤫
 
 🔥 **Star Projects**  
 
