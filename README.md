@@ -3,32 +3,30 @@
 </p>
 
 ## 💫 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
-
 Hi, I'm Anant from New Delhi. I've been coding since the 10th grade and love building impromptu projects — idea on day one, product by day three. I'm starting to get deeply involved in the world of machine learning and AI lately, while still jamming with Flutter when I need a quick app. Always experimenting, always shipping 🛻💨
 
 Recently working on my biggest project ever — pictora.ai 🤫
 
-🔥 **Star Projects**  
+## 💻 Tech Stack
 
-- **ChaiGPT**: A chatbot for personalized company use to access internal data in a quick manner 🎯  
-- **Somnia**: A dream sharing platform - post your wildest dreams anonymously 💭  
-- **Hand2Hand**: A donation management app built for an NGO using Flutter. Bridging the gap between unwanted yet useful resources and NGOs who actually would find them helpful. 🤝📦  
+<div align="center">
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%230257A1.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![NoSQL](https://img.shields.io/badge/NoSQL-%23E64135.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
-## 🌐 Socials:
+## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
-
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Skills
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%230257A1.svg?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%23E64135.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
+  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+</div>
 
 
 
