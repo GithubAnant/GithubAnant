@@ -3,9 +3,8 @@
 </p>
 
 ## 💫 About Me
-Hi, I'm Anant from New Delhi. I've been coding since the 10th grade and love building impromptu projects — idea on day one, product by day three. I'm starting to get deeply involved in the world of machine learning and AI lately, while still jamming with Flutter when I need a quick app. Always experimenting, always shipping 🛻💨
-
-Recently working on my biggest project ever — pictora.ai 🤫
+Hi, I'm Anant. I live in New Delhi, India. I've been coding since the 10th grade and love building stuff. Mostly impromptu projects — idea on day one, product by day three. Expanding my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
+Recently been working on my biggest project ever — pictora.ai 🤫
 
 ## 💻 Tech Stack
 
