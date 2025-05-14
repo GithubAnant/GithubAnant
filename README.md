@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pixel_graphic.gif" alt="Pixel Graphic" width="100%" />
+  <img src="https://happy05dz.tumblr.com/image/164289564000" alt="Pixel Graphic" width="100%" />
 </p>
 
 ## 💫 About Me
