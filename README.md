@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="readme_gif1.gif" alt="Pixel Graphic" width="100%" />
+  <img src="giphy.gif" alt="Pixel Graphic" width="100%" />
 </p>
 
+## 🤖 Who Am I?
+- 🛠 I build stuff that sometimes works
+- 📚 Learning [Tech Stack]
+- 🧠 Thinking in code and memes
+
+
 ## 💫 About Me
-Hi, I'm Anant. I live in New Delhi, India. I've been coding since the 10th grade and love building stuff. Mostly impromptu projects — idea on day one, product by day three. Expanding my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
+A second-year college student majoring in Computer Science. I live in New Delhi, India. I've been coding since the 10th grade and love building stuff. Mostly impromptu projects — idea on day one, product by day three. Expanding my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
 
 Recently been working on my biggest project ever — pictora.ai 🤫
 
