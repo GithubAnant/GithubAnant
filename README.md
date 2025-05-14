@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme_gif1" alt="Pixel Graphic" width="100%" />
+  <img src="readme_gif1.gif" alt="Pixel Graphic" width="100%" />
 </p>
 
 ## 💫 About Me
