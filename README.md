@@ -4,10 +4,15 @@
 
 
 ## 💫 About Me
-A second-year college student majoring in Computer Science. I live in New Delhi, India. I've been coding since the 10th grade and love building stuff. My guilty pleasure is building impromptu projects — idea on day one, product by day three. When I'm not doing that, I'm probably working on long-term projects. Trying  to expand my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
+A second-year college student majoring in Computer Science living in New Delhi, India. 
+
+I've been coding since the 10th grade and love building stuff. My guilty pleasure is building impromptu projects — idea on day one, product by day three. When I'm not doing that, I'm probably chipping away at something bigger that actually takes more than 3 days to build.
+
+Trying  to expand my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
 
 Recently been working on my biggest project ever — pictora.ai 🤫
 
+---
 
 ## 💻 Tech Stack
 
@@ -19,6 +24,8 @@ Recently been working on my biggest project ever — pictora.ai 🤫
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%23E64135.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ## 🌐 Socials
 
