@@ -36,8 +36,8 @@ Recently been working on my biggest project ever — pictora.ai 🤫
 
 
 ---
-## My Coding Activity (Widget Placeholder)
-[![CodePals Profile](https://img.shields.io/badge/CodePals-Profile-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://app.codepals.dev/users/anant)
+## My Today's Activity
+[![CodePals](https://img.shields.io/badge/CodePals-Profile-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://app.codepals.dev/users/anant)
 
 ---
 
