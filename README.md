@@ -35,11 +35,5 @@ Recently been working on my biggest project ever — pictora.ai 🤫
 
 
 
----
-## My Today's Activity
-[![CodePals](https://img.shields.io/badge/CodePals-Profile-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://app.codepals.dev/users/anant)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=GithubAnant&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=GithubAnant&color=brightgreen&style=flat)
