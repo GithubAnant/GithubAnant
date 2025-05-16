@@ -12,7 +12,6 @@ Trying  to expand my skillset and learning new stuff each day. Lately, I'm start
 
 Recently been working on my biggest project ever — pictora.ai 🤫
 
----
 
 ## 💻 Tech Stack
 
@@ -25,7 +24,6 @@ Recently been working on my biggest project ever — pictora.ai 🤫
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%23E64135.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
 ## 🌐 Socials
 
