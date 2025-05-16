@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="giphy.gif" alt="Pixel Graphic" width="100%" />
+  <img src="pixel_graphic.gif" alt="Pixel Graphic" width="100%" />
 </p>
 
 
