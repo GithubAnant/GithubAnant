@@ -6,7 +6,7 @@
 ## 💫 About Me
 A second-year college student majoring in Computer Science living in New Delhi, India. 
 
-I've been coding since the 10th grade and love building stuff. I like spinning up quick projects—idea on day one, working product by day three. When I’m not doing that, I’m usually working on something bigger that actually takes time.
+I've been coding since the 10th grade and love building stuff. I like working on up quick projects - idea on day one, working product by the week. When I’m not doing that, I’m usually working on something bigger that actually takes time.
 
 Trying  to expand my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
 
