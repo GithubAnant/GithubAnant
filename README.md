@@ -35,7 +35,13 @@ Recently been working on my biggest project ever — pictora.ai 🤫
 
 
 
+
+
 ## 🌐 Socials
+
+// Ahola there, random stranger 👋
+// You’ve trembled upon this mysterious codebase.
+// Read it, copy it, remix it — but don’t forget to plug in your *own* social links ;)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
