@@ -42,7 +42,7 @@ Recently been working on my biggest project ever — pictora.ai 🤫
 <!-- 
 Ahola there, random stranger 👀
 You’ve trembled upon this mysterious codebase.
-Feel free to read, copy, remix — just don’t forget to use your own social links ;)
+Feel free to read, copy, remix — just don’t forget to use your own social links :)
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
