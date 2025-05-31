@@ -10,7 +10,7 @@ I've been coding since the 10th grade and love building stuff. I like working on
 
 Trying  to expand my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
 
-Working on multiple projects. Follow me for the ride :)
+Working on some cool projects. Follow along if you like what you see.
 
 ## 💻 Tech Stack
 
