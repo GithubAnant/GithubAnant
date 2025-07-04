@@ -38,14 +38,11 @@ Working on some cool projects. Follow along if you like what you see.
 
 ## 🌐 Socials
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GithubAnant)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/anantsinghal807)
-
-
+[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/anantsinghal807)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantsinghal1/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anantsinghal786) 
+[![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&labelColor=black&color=black&logo=HuggingFace&logoColor=white)](https://huggingface.co/anant807)
 
 <!-- 
 Hello there, random stranger👋🏻
