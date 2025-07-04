@@ -54,8 +54,10 @@ Seems like you’ve trembled upon this beautiful codebase.
 Feel free to read, copy, remix — just don’t forget to use your own social links :)
 -->
 
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=GithubAnant&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=GithubAnant&color=brightgreen&style=flat)
+[![](https://komarev.com/ghpvc/?username=GithubAnant&color=brightgreen&style=flat)
 
 
 
