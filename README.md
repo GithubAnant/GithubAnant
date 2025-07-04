@@ -38,11 +38,7 @@ Working on some cool projects. Follow along if you like what you see.
 
 ## 🌐 Socials
 
-<!-- 
-Ahola there, random stranger 👀
-You’ve trembled upon this mysterious codebase.
-Feel free to read, copy, remix — just don’t forget to use your own social links :)
--->
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-singhal-linkdn/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
@@ -50,6 +46,14 @@ Feel free to read, copy, remix — just don’t forget to use your own social li
 
 
 
+<!-- 
+Hello there, random stranger👋🏻
+Seems like you’ve trembled upon this beautiful codebase.
+Feel free to read, copy, remix — just don’t forget to use your own social links :)
+-->
+
 [![](https://visitcount.itsvg.in/api?id=GithubAnant&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=GithubAnant&color=brightgreen&style=flat)
+
+
 
