@@ -55,7 +55,7 @@ Working on some cool projects. Follow along if you like what you see.
 Hello there, random stranger👋🏻
 Seems like you’ve trembled upon this beautiful codebase.
 Feel free to read, copy, remix — just don’t forget to use your own social links :)
-<!-- 
+-->
 
 <br>
 
@@ -65,7 +65,7 @@ Feel free to read, copy, remix — just don’t forget to use your own social li
 
 [![](https://visitcount.itsvg.in/api?id=GithubAnant&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=GithubAnant&color=brightgreen&style=flat)
-<!--> 
+--> 
 
 
 
