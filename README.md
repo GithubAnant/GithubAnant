@@ -43,8 +43,6 @@ Working on some cool projects. Follow along if you like what you see.
 
 <div align="center">
 
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantsinghal807)
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/anantsinghal807)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantsinghal1/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anantsinghal786) 
