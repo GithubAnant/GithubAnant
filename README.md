@@ -43,7 +43,7 @@ Working on some cool projects. Follow along if you like what you see.
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/anantsinghal807)
+[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&labelColor=black&color=black&logo=X&logoColor=white)](https://twitter.com/anant_hq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&labelColor=black&color=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantsinghal1/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&labelColor=black&color=black&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anantsinghal786) 
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&labelColor=black&color=black&logo=HuggingFace&logoColor=white)](https://huggingface.co/anant807)
