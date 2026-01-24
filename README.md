@@ -4,15 +4,11 @@
 
 
 ## 💫 About Me
-Second year Computer Science student based in New Delhi, India.
+Computer Science student at DTU (Delhi) with a passion for shipping products that actually bother me. I believe in rapid iteration, taking ideas from concept to working prototype within days, while also dedicating time to more complex projects that require deeper thinking.
 
-I have been coding since 10th grade. I like building fast. Idea day one, working product by the week. When not doing that, I am usually deep into longer projects that actually take time to get right.
+My technical journey started in 10th grade and has evolved into full-stack development across web, mobile, and desktop. Currently expanding my horizons by diving into Machine Learning and AI.
 
-Currently expanding my skillset and diving deeper into machine learning and AI. Full stack developer with strong experience building web apps, mobile apps, and Windows apps using Flutter.
-
-Always experimenting. Always shipping.
-
-Working on some cool projects. Follow along if you like what you see.
+Absolutely love building, shipping, and learning. Check out my repositories to see what I'm working on or connect to collaborate on something interesting
 
 ## 💻 Tech Stack
 
