@@ -4,11 +4,13 @@
 
 
 ## 💫 About Me
-A second-year college student majoring in Computer Science living in New Delhi, India. 
+Second year Computer Science student based in New Delhi, India.
 
-I've been coding since the 10th grade and love building stuff. I like working on up quick projects - idea on day one, working product by the week. When I’m not doing that, I’m usually working on something bigger that actually takes time.
+I have been coding since 10th grade. I like building fast. Idea day one, working product by the week. When not doing that, I am usually deep into longer projects that actually take time to get right.
 
-Trying  to expand my skillset and learning new stuff each day. Lately, I'm starting to get deeply involved in the world of machine learning and AI. Other than that, I'm skilled in Flutter Framework, having built webapps, windows app and mobile apps with it. Always experimenting, always shipping 🛻💨
+Currently expanding my skillset and diving deeper into machine learning and AI. Full stack developer with strong experience building web apps, mobile apps, and Windows apps using Flutter.
+
+Always experimenting. Always shipping.
 
 Working on some cool projects. Follow along if you like what you see.
 
@@ -56,8 +58,8 @@ Working on some cool projects. Follow along if you like what you see.
 
 </div>
 <!-- 
-Hello there, random stranger👋🏻
-Seems like you’ve trembled upon this beautiful codebase.
+Hello there, random stranger
+Seems like you’ve trembled upon this amazing readme.
 Feel free to read, copy, remix — just don’t forget to use your own social links :)
 -->
 
