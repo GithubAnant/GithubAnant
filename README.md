@@ -12,7 +12,7 @@ I care about taste as much as technical depth. Good software should feel good to
 
 I move fast, I iterate a lot, and I genuinely enjoy the whole process of taking something from idea to shipped product. 
 
-If you want to see what i'm currently working on, [anant.studio](https://anants.studio/) is the best place. Everything lives there. DMs are always open if you want to talk, collaborate, or just geek out about ai.
+If you want to see what i'm currently working on, [anants.studio](https://anants.studio/) is the best place. Everything lives there. DMs are always open if you want to talk, collaborate, or just geek out about ai.
 
 ## 💻 Tech Stack
 
