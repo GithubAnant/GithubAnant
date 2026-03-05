@@ -4,11 +4,15 @@
 
 
 ## 💫 About Me
-Computer Science student at DTU (Delhi) with a passion for shipping products that actually bother me. I believe in rapid iteration, taking ideas from concept to working prototype within days, while also dedicating time to more complex projects that require deeper thinking.
+hey, i'm anant. 19, cs student at dtu, delhi.
 
-My technical journey started in 10th grade and has evolved into full-stack development across web, mobile, and desktop. Currently expanding my horizons by diving into Machine Learning and AI.
+i've been building things since 10th grade and somewhere along the way got completely absorbed by ai. these days i work across generative ai, machine learning, and full stack development. i've shipped over 10 projects in the past year, ranging from weird experiments to things that actually got attention.
 
-Absolutely love building, shipping, and learning. Check out my repositories to see what I'm working on or connect to collaborate on something interesting
+i care about taste as much as technical depth. good software should feel good to use and look good doing it. that's just how i think about building.
+
+i move fast, i iterate a lot, and i genuinely enjoy the whole process of taking something from idea to shipped product. not everything ends up being a product but that's kind of the point.
+
+if you want to see what i'm currently working on, anants.studio is the best place. everything lives there. dms are always open if you want to talk, collaborate, or just geek out about ai.
 
 ## 💻 Tech Stack
 
@@ -56,7 +60,7 @@ Absolutely love building, shipping, and learning. Check out my repositories to s
 <!-- 
 Hello there, random stranger
 Seems like you’ve trembled upon this amazing readme.
-Feel free to read, copy, remix — just don’t forget to use your own social links :)
+If you wanna use this, go ahead. Just make sure to use your own social links :)
 -->
 
 <br>
