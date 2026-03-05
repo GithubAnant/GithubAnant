@@ -4,15 +4,15 @@
 
 
 ## 💫 About Me
-hey, i'm anant. 19, cs student at dtu, delhi.
+Hey, i'm anant. 19, cs student at dtu, delhi.
 
-i've been building things since 10th grade and somewhere along the way got completely absorbed by ai. these days i work across generative ai, machine learning, and full stack development. i've shipped over 10 projects in the past year, ranging from weird experiments to things that actually got attention.
+I've been building things since i was 14 and somewhere along the way got completely absorbed by ai. I work across generative ai, machine learning, and full stack development. 
 
-i care about taste as much as technical depth. good software should feel good to use and look good doing it. that's just how i think about building.
+I care about taste as much as technical depth. Good software should feel good to use and look good doing it. That's just how i think about building.
 
-i move fast, i iterate a lot, and i genuinely enjoy the whole process of taking something from idea to shipped product. not everything ends up being a product but that's kind of the point.
+I move fast, i iterate a lot, and i genuinely enjoy the whole process of taking something from idea to shipped product. 
 
-if you want to see what i'm currently working on, anants.studio is the best place. everything lives there. dms are always open if you want to talk, collaborate, or just geek out about ai.
+If you want to see what i'm currently working on, ![anant.studio](https://anants.studio/) is the best place. Everything lives there. DMs are always open if you want to talk, collaborate, or just geek out about ai.
 
 ## 💻 Tech Stack
 
