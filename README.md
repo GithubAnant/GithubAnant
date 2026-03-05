@@ -4,7 +4,7 @@
 
 
 ## 💫 About Me
-Hey, i'm Anant. 19, cs student at dtu, delhi.
+Howdy, I'm Anant. 19, CS@dtu, Delhi. 
 
 I've been building things since I was 14 and somewhere along the way got completely absorbed by ai. I work across generative ai, machine learning, and full stack development. 
 
