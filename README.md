@@ -71,10 +71,10 @@ If you wanna use this, go ahead. Just make sure to use your own social links :)
 --> 
 
 
-
+<!-- 
 [![](https://visitcount.itsvg.in/api?id=GithubAnant&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=GithubAnant&color=brightgreen&style=flat)
-
+--> 
 
 
 and no, my contribution chart is not fake
