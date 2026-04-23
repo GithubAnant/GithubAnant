@@ -65,10 +65,8 @@ If you wanna use this, go ahead. Just make sure to use your own social links :)
 
 <br>
 
-<!-- 
-
 ![Profile views](https://counter.kuber.studio/GithubAnant/dark/count.svg)
---> 
+
 
 
 <!-- 
